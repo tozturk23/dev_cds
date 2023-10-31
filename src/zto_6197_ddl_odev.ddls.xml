@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DDLS>
-    <DDLNAME>ZBT_DDL_EGT</DDLNAME>
+    <DDLNAME>ZTO_6197_DDL_ODEV</DDLNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
-    <DDTEXT>CDS Eğitim DDL&apos;i</DDTEXT>
+    <DDTEXT>Ödev 2 DDL</DDTEXT>
     <SOURCE_TYPE>V</SOURCE_TYPE>
    </DDLS>
   </asx:values>
